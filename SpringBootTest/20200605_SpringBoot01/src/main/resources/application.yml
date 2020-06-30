@@ -1,0 +1,10 @@
+name: admin
+
+person:
+  username: lufei
+  age: 18
+  address: 太原
+
+city:
+  - beijing
+  - shanghai
